@@ -1,0 +1,2 @@
+# Sohbet-Temizleyici
+Sohbeti temizlersiniz.
